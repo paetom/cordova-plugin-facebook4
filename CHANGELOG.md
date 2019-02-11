@@ -1,3 +1,4 @@
+<<<<<<< ours
 <a name="5.0.0"></a>
 # [5.0.0](https://github.com/jeduan/cordova-plugin-facebook4/releases/tag/v5.0.0)
 
@@ -9,6 +10,8 @@
 ### Kudos
 Thx [Guy Lando](https://github.com/guylando) for your amazing work and PR 👍
 
+=======
+>>>>>>> theirs
 <a name="4.2.1"></a>
 # [4.2.1](https://github.com/jeduan/cordova-plugin-facebook4/releases/tag/v4.2.1)
 
